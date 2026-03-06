@@ -6,7 +6,7 @@ Welcome to the GitHub page of Café. We combine design and technology to drive c
 
 ## About Us
 
-Café is a multi-award-winning studio with 20 years of experience dedicated to the integration of design and technology, focusing on creating impactful solutions through innovative approaches. Our mission is to leverage the power of data visualization and interactive tools to foster sustainable development.
+Café is a multi-award-winning studio with 22 years of experience dedicated to the integration of design and technology, focusing on creating impactful solutions through innovative approaches. Our mission is to leverage the power of data visualization and interactive tools to foster sustainable development.
 
 ### Awards
 
@@ -42,4 +42,4 @@ For more information about our projects or to get in touch, visit our [website](
 
 ---
 
-© 2024 Café Organization. All rights reserved.
+© 2026 Café Organization. All rights reserved.
