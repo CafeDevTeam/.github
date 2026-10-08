@@ -60,7 +60,3 @@ Email us at [cafe@cafe.art.br](mailto:cafe@cafe.art.br) or visit [cafe.art.br](h
 ---
 
 © 2026 Café. All rights reserved.
-
----
-
-© 2026 Café Organization. All rights reserved.
